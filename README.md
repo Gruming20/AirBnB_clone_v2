@@ -1,8 +1,14 @@
 0x00. AirBnB clone - The console
 _________________________________________________
+![hbnb](https://user-images.githubusercontent.com/37456764/204332091-29f1d557-e9a1-4970-be18-2b2ecebfc234.png)
+
+
 
 The Overview
 _______________________________________________
+
+![clone](https://user-images.githubusercontent.com/37456764/204332114-ee06f78b-4830-4ea1-a3ed-9dcc5f362c2e.png)
+
 
 Airbnb is a popular website that is dirupting the hospitality industry by giving people the power to rent out rooms in their homes and rent wherever they choose. With Airbnb, hosts can list their spaces and book unique accomodations.
 Our assignment is to clone Airbnb and for this assignment our goal is to creat the console with python. The console is important for the overall success of the project because it allows to create, destroy, show, save, and update our BaseModel,, a framework that is inheritable by other classes or catgoires.
