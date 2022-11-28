@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 """class Amenity that inherites from BaseModel"""
+from models.base_model import BaseModdel
 
-import models
+class Amenity(BaseModel):
+    """Represents an amenity.
+    Attributes:
+        name (str): The name of the amenity.
+    """
 
-
-class Amenity(models.BaseModel):
-    """Class to store Amenities"""
-    name = ''
+    name = ""
